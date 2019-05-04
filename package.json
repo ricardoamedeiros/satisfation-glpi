@@ -1,0 +1,25 @@
+{
+  "name": "satisfaction",
+  "version": "1.0.0",
+  "description": "Webservice to define the level of customer satisfaction of no logged in users for GLPI.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ricardoamedeiros/satisfation-glpi.git"
+  },
+  "keywords": [
+    "glpi",
+    "satisfaction",
+    "api",
+    "rest"
+  ],
+  "author": "Ricardo Abreu Medeiros",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ricardoamedeiros/satisfation-glpi/issues"
+  },
+  "homepage": "https://github.com/ricardoamedeiros/satisfation-glpi#readme"
+}
