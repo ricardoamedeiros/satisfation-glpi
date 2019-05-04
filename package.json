@@ -14,7 +14,8 @@
     "glpi",
     "satisfaction",
     "api",
-    "rest"
+    "rest",
+	"star"
   ],
   "author": "Ricardo Abreu Medeiros",
   "license": "MIT",
